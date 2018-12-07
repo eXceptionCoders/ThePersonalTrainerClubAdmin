@@ -6,6 +6,6 @@ import CardHeader from '@material-ui/core/CardHeader';
 export default () => (
   <Card>
     <CardHeader title="Bienvenido al panel de Admin de The Gym" />
-    <CardContent>Bienvenido al panel de Admin de The Gym</CardContent>
+    <CardContent>Desde aquí puedes controlar la aplicación</CardContent>
   </Card>
 );
